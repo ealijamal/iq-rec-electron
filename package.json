@@ -1,0 +1,49 @@
+{
+    "name": "iq-rec",
+    "version": "1.1.0",
+    "description": "application for recording screen, applications interface and camera",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+
+        "dist": "electron-builder"
+    },
+    "build": {
+
+        "appId": "IQ-REC",
+        "win": {
+            "target": [
+                "nsis"
+            ],
+            "icon": "app/imag/ico.ico"
+        },
+        "nsis": {
+            "installerIcon": "app/imag/ico.ico",
+            "uninstallerIcon": "app/imag/icou.ico",
+            "uninstallDisplayName": "IQ-REC uninstall",
+            "license": "LICENSE.md",
+            "oneClick": true
+        }
+    },
+    "repository": "https://github.com/ealijamal/iq-rec-electron",
+    "extraFiles": [
+        "temp"
+    ],
+    "keywords": [
+        "Electron",
+        "sound",
+        "start",
+        "record",
+        "demo"
+    ],
+    "author": "golden_man",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^15.3.0",
+        "electron-builder": "^22.14.5"
+    },
+    "dependencies": {
+        "jquery": "^3.6.0"
+
+    }
+}
