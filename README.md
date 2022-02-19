@@ -146,6 +146,8 @@ _Below is an example of how you can instruct your audience on installing and set
 
 * Choose the recording type from the list on the left  
 * start the recording from the list below or from the program icon in the taskbar
+* ## Note
+To record a program interface screen, it must be running in the background and not minimized
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
