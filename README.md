@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 mail - goldenman-dev@gmail.com
 
-Project Link: [https://github.com/ealijamal/iq-rec-electron](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/goldenman-dev/iq-rec-electron](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
