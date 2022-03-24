@@ -114,7 +114,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   https://github.com/ealijamal/iq-rec-electron.git
+   https://github.com/goldenman-dev/iq-rec-electron.git
    ```
 2. Install 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-mail - ealijamal@gmail.com
+mail - goldenman-dev@gmail.com
 
 Project Link: [https://github.com/ealijamal/iq-rec-electron](https://github.com/your_username/repo_name)
 
