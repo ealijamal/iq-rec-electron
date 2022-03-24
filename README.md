@@ -1,4 +1,4 @@
-<div id="top"></div>
+<div id="top" align="center"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -83,7 +83,7 @@
 
 ### My first application in Electron JS
 A simple screen recording application built with Electron js Framework, media recording and media streaming for Google Chrome
-
+</div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
